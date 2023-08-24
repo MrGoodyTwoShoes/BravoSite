@@ -20,6 +20,10 @@ h2 {
 	text-transform: lowercase;
 }
 
+p{
+	color: #fff
+}
+
 h2:after {
 	content: '';
 	width: 50px;
@@ -252,7 +256,7 @@ button.navbar-toggle.collapsed {
 	height: auto;
 	text-align: center;
 	color: white;
-	background: url(/Templates/Cafetreia\ Wedding.jpg) no-repeat top center scroll;
+	background: url(/Templates/Cafetreia_Wedding.jpg) no-repeat top center scroll;
 	background-size: cover;
 	-o-background-size: cover;
 }
